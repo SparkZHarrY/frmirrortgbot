@@ -27,9 +27,9 @@ def stats(update, context):
     currentTime = get_readable_time(time.time() - botStartTime)
     current = now.strftime('%Y/%m/%d %I:%M:%S %p')
     total, used, free = shutil.disk_usage('.')
-    total = ∞(total)
+    total = Unlimited(total)
     used = get_readable_file_size(used)
-    free = ∞(free)
+    free = Unlimited(free)
     sent = get_readable_file_size(psutil.net_io_counters().bytes_sent)
     recv = get_readable_file_size(psutil.net_io_counters().bytes_recv)
     cpuUsage = psutil.cpu_percent(interval=0.5)
@@ -38,9 +38,9 @@ def stats(update, context):
     stats = f'<b>╭──「  ⭕️ BOT STATISTICS ⭕️  」</b>\n' \
             f'<b>│</b>\n' \
             f'<b>├  ⏰ Bot Uptime : {currentTime}</b>\n' \
-            f'<b>├  💾 Total Disk Space : ♾ </b>\n' \
+            f'<b>├  💾 Total Disk Space : Unlimited </b>\n' \
             f'<b>├  📀 Total Used Space : {used}</b>\n' \
-            f'<b>├  💿 Total Free Space : ♾</b>\n' \
+            f'<b>├  💿 Total Free Space : Unlimited</b>\n' \
             f'<b>├  🔼 Total Upload : {sent}</b>\n' \
             f'<b>├  🔽 Total Download : {recv}</b>\n' \
             f'<b>├  🖥️ CPU : {cpuUsage}%</b>\n' \
