@@ -1,8 +1,8 @@
-[![Slam](https://telegra.ph/file/edf98b679a49bbd51e718.jpg)](http://t.me/leechoff_bot)
+[![Slam](https://telegra.ph/file/c4a371f3f5eca4e684068.jpg)](https://t.me/MirrorMasterz)
 
-owner of this repo :- [SZ](http://t.me/leechoff_bot)
+owner of this repo :- [SZ](https://t.me/MirrorMasterz)
 
-contact me :- [SZ](http://t.me/leechoff_bot)
+contact me :- [SZ](https://t.me/MirrorMasterz)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
@@ -16,9 +16,6 @@ to know how to get them click on the  #[ link ](https://github.com/SparkZHarrY/f
  
 # [video 2](https://www.youtube.com/watch?v=F58_LKXiZ-0) ( without SA accounts and no mega.nz )
   
-   [YouTube channel](https://www.youtube.com/channel/UCodj8yIUqFrM1VbnRbL0LHA) (for more such videos )
-
-
 
 after this click on the below button 👇👇👇👇
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
